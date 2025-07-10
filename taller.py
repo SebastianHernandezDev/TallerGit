@@ -1,4 +1,25 @@
+print("das")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("hola master")
-print ("esto lo escribio sebastian desde la ramasebastian")
-suma = 40 + 1
-print(suma)
+
+
+
+print("Cambio realizado por Juan Jose")
+print("Esto lo escribi yo Andres Moreno xd")
